@@ -8,7 +8,7 @@ Utworzenie nowego repozytorium:
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/d9649b11-6beb-48a2-9528-fcec2fab51c1)
 
-:
+Przygotowanie środowiska CI:
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/4f116066-1a32-47c4-86d1-7569dd2160f0)
 
@@ -16,23 +16,25 @@ Utworzenie nowego repozytorium:
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/9c9d7a30-c161-49e2-be89-007e9fab50a4)
 
-Zmienne i sekrety:
+Tworzenie secret'ów oraz zmiennych:
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/9003a411-47fe-45f2-a4bf-11155d062420)
 
-Run:
+Uruchomienie łańcucha CI oraz sprawdzenie statusu jego działania:
 
+Zastosowano obraz bez zagrożeń sklasyfikowanych jako krytyczne oraz wysokie:
 ![image](https://github.com/Minlok3/zad2/assets/161515539/b819bd9c-a4d3-420d-99f4-ebc9062d673b)
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/9a1f79bd-4e8b-4816-83bf-2dd69a8edffe)
 
-Test:
+Sprawdzenie działania łańcucha CI w przypadku wykrycia zagrożeń sklasyfikowanych jako krytyczne lub wysokie:
 
+Zastosowano obraz z zagrożeniami sklasyfikowanymi jako krytyczne lub wysokie:
 ![image](https://github.com/Minlok3/zad2/assets/161515539/1a6edd7f-5b78-48e1-ba42-d8adf64f3c78)
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/80f4e952-0f5c-41cf-8304-99b3b71196e1)
 
-Zmiany:
+Zmiany dodane do konfiguracji:
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/8e51a343-8417-4efe-b2fd-02c81c1e9137)
 
