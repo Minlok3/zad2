@@ -62,7 +62,7 @@ jobs:
         with:
           command: cves
           platform: linux/amd64
-          image: ${{ steps.meta.outputs.tags[0] }}
+          image: ${{ steps.meta.outputs.tags }}
 
       - 
         name: Fail if there are critical or high vulnerabilities
