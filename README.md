@@ -27,12 +27,30 @@ Zastosowano obraz bez zagrożeń sklasyfikowanych jako krytyczne oraz wysokie:
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/9a1f79bd-4e8b-4816-83bf-2dd69a8edffe)
 
+![image](https://github.com/Minlok3/zad2/assets/161515539/da9d03e1-4874-4a62-9586-b651595a7666)
+
+![image](https://github.com/Minlok3/zad2/assets/161515539/c9c7d224-ea39-4b62-9e1a-21fd5368cf82)
+
+![image](https://github.com/Minlok3/zad2/assets/161515539/8cc9ed0f-d142-4ec0-988a-a670e0e8ca88)
+
+https://github.com/users/Minlok3/packages/container/package/docker-zadanie2
+![image](https://github.com/Minlok3/zad2/assets/161515539/a197845e-fc38-4538-a95e-a023a186b345)
+
+
 Sprawdzenie działania łańcucha CI w przypadku wykrycia zagrożeń sklasyfikowanych jako krytyczne lub wysokie:
 
 Zastosowano obraz z zagrożeniami sklasyfikowanymi jako krytyczne lub wysokie:
 ![image](https://github.com/Minlok3/zad2/assets/161515539/1a6edd7f-5b78-48e1-ba42-d8adf64f3c78)
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/80f4e952-0f5c-41cf-8304-99b3b71196e1)
+
+![image](https://github.com/Minlok3/zad2/assets/161515539/aa92a1ef-01b8-41bb-a8f8-0de8c9c96882)
+
+![image](https://github.com/Minlok3/zad2/assets/161515539/1929074a-4691-4bc1-9b2a-b975c080b6ae)
+
+![image](https://github.com/Minlok3/zad2/assets/161515539/dc55bdc6-2b21-41c4-8626-d11dd2ee3639)
+
+![image](https://github.com/Minlok3/zad2/assets/161515539/84f3fd73-00de-46e9-9e27-d455da92903f)
 
 Zmiany dodane do konfiguracji:
 
