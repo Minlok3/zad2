@@ -1,60 +1,41 @@
 # PAwChO_zad2
 
-Zrzut ekranu przeglądarki:
+Logowanie:
 
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/75716dc8-da38-470e-9711-a0decb73afb3)
+![image](https://github.com/Minlok3/zad2/assets/161515539/1724b8f2-e7d4-48b2-a2a4-fbef80fb8af9)
 
-Polecenie do budowy obrazu i wynik jego działania:
+Utworzenie nowego repozytorium:
 
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/cbffdd48-2098-46c0-94f4-f551ffbe4d58)
+![image](https://github.com/Minlok3/zad2/assets/161515539/d9649b11-6beb-48a2-9528-fcec2fab51c1)
 
-Polecenie uruchamiające serwer:
+:
 
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/e3e027fc-3a1f-4384-86c2-4ac728b908a8)
+![image](https://github.com/Minlok3/zad2/assets/161515539/4f116066-1a32-47c4-86d1-7569dd2160f0)
 
-Polecenie potwierdzające działanie kontenera i poprawne funkcjonowanie aplikacji. W wyniku tego polecenia widać również status health check'a:
+![image](https://github.com/Minlok3/zad2/assets/161515539/a95c998b-4869-4a0b-80de-fad21adc156b)
 
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/83261205-5bba-4c75-889c-1a7bb5cbfc3f)
+![image](https://github.com/Minlok3/zad2/assets/161515539/9c9d7a30-c161-49e2-be89-007e9fab50a4)
 
-Poleceniem docker logs można sprawdzić logi kontenera:
+Zmienne i sekrety:
 
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/3e62ef67-728c-44dd-8623-b408ca03ab32)
+![image](https://github.com/Minlok3/zad2/assets/161515539/9003a411-47fe-45f2-a4bf-11155d062420)
 
-Za pomocą polecenia docker inspect możemy sprawdzić bardzo wiele informacji:
+Run:
 
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/144033a6-7d3c-4832-8351-13f4e832b939)
+![image](https://github.com/Minlok3/zad2/assets/161515539/b819bd9c-a4d3-420d-99f4-ebc9062d673b)
 
-informację o warstwach:
+![image](https://github.com/Minlok3/zad2/assets/161515539/9a1f79bd-4e8b-4816-83bf-2dd69a8edffe)
 
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/10e6bb68-3b42-4d13-8bda-af778a2ce810)
+Test:
 
-czy na przykład o labelach:
+![image](https://github.com/Minlok3/zad2/assets/161515539/1a6edd7f-5b78-48e1-ba42-d8adf64f3c78)
 
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/f32b1dbf-40c0-462a-8c2f-da692ad70d29)
+![image](https://github.com/Minlok3/zad2/assets/161515539/80f4e952-0f5c-41cf-8304-99b3b71196e1)
 
-Te, a także wiele innych informacji można sprawdzić za pomoca docker desktop'a.
+Zmiany:
 
-Analiza docker scout:
-
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/5c9ea4a8-7c22-49f5-bfa8-c7788ca73da3)
+![image](https://github.com/Minlok3/zad2/assets/161515539/8e51a343-8417-4efe-b2fd-02c81c1e9137)
 
 
-Zadania dodatkowe:
-
-1.1:
-
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/1ded1336-6026-4520-8c37-165c24af5a68)
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/74fa729c-d1ef-4a19-b06c-85b15df6e627)
-
-
-1.2
-
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/1e140e20-a0f5-4fb1-b801-a4b2dad0e79c)
-
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/aa1cd9f8-db87-4dfb-b76d-a24a429df5a5)
-
-1.3
-
-![image](https://github.com/Minlok3/PAwChO_zad1/assets/161515539/e6fc22cd-0a0a-4258-92b4-bbdcddd3d5fb)
 
 
