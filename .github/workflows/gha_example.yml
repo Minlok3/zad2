@@ -63,6 +63,8 @@ jobs:
           command: cves
           platform: linux/amd64
           image: ${{ steps.meta.outputs.tags }}
+          only-severities: critical,high
+          exit-code: true
 
       - 
         name: Fail if there are critical or high vulnerabilities
