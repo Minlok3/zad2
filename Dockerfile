@@ -24,7 +24,8 @@ RUN npm install moment-timezone
 
 
 
-FROM node:iron-alpine3.19
+#FROM node:iron-alpine3.19
+FROM node:16.20.0-alpine
 
 RUN apk add --update --no-cache curl
 
