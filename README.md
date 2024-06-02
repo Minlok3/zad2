@@ -23,7 +23,9 @@ Tworzenie secret'ów oraz zmiennych:
 Uruchomienie łańcucha CI oraz sprawdzenie statusu jego działania:
 
 Zastosowano obraz bez zagrożeń sklasyfikowanych jako krytyczne oraz wysokie:
+
 ![image](https://github.com/Minlok3/zad2/assets/161515539/b819bd9c-a4d3-420d-99f4-ebc9062d673b)
+
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/9a1f79bd-4e8b-4816-83bf-2dd69a8edffe)
 
@@ -34,13 +36,16 @@ Zastosowano obraz bez zagrożeń sklasyfikowanych jako krytyczne oraz wysokie:
 ![image](https://github.com/Minlok3/zad2/assets/161515539/8cc9ed0f-d142-4ec0-988a-a670e0e8ca88)
 
 https://github.com/users/Minlok3/packages/container/package/docker-zadanie2
+
 ![image](https://github.com/Minlok3/zad2/assets/161515539/a197845e-fc38-4538-a95e-a023a186b345)
 
 
 Sprawdzenie działania łańcucha CI w przypadku wykrycia zagrożeń sklasyfikowanych jako krytyczne lub wysokie:
 
 Zastosowano obraz z zagrożeniami sklasyfikowanymi jako krytyczne lub wysokie:
+
 ![image](https://github.com/Minlok3/zad2/assets/161515539/1a6edd7f-5b78-48e1-ba42-d8adf64f3c78)
+
 
 ![image](https://github.com/Minlok3/zad2/assets/161515539/80f4e952-0f5c-41cf-8304-99b3b71196e1)
 
